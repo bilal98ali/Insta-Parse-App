@@ -13,11 +13,13 @@ The following **required** functionality is completed:
 
 ## App Walkthrough
 
-Here's an (incomplete) walkthrough:
-
-<img src='https://s4.gifyu.com/images/InstaParse-Incomplete---Walkthrough.gif' width='' alt='Video Walkthrough' />
+<img src=https://i.imgur.com/p32Hhtd.gif, width=250 />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
+
+## Notes
+
+- I was not able to complete the required functionality due to failure of implementing parse login and navigation—which, also prevented me from defining data object and query, and implementing image capture and post creation. 
 
 ## Open-source Libraries Used:
 
